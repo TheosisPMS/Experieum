@@ -1,0 +1,9 @@
+Building Experieum
+
+See doc/readme-qt.rst for instructions on building Experieum QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Experieum.
+
+See doc/build-*.txt for instructions on building experieumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Experieum.
